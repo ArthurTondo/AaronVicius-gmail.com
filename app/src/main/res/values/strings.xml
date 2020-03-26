@@ -9,4 +9,5 @@
     <string name="taxa">Tax rate</string>
     <string name="taxa2" translatable="false">Ex: 0.02</string>
     <string name="calc">Calc</string>
+    <string name="Ttulo31">savings</string>
 </resources>

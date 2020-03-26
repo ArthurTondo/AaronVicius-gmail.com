@@ -8,7 +8,6 @@ import android.view.View;
 // TODO: 26/03/2020 Falta adicionar os exercicios da aula 1 e 2
 
 // TODO: 26/03/2020 Aula 3:
-// TODO: 26/03/2020 Ex1: falta alterar o titulo quando entra
 // TODO: 26/03/2020 Ex2: Falta add o ex 2
 // TODO: 26/03/2020 Ex3: Falta add o ex 3
 // TODO: 26/03/2020 Ex4: Falta add o ex 4

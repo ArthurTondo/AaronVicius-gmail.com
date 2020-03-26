@@ -21,8 +21,8 @@ public class Aula3Activity extends AppCompatActivity {
     }
     public void aula31Click(View view){
 
-        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#0077ff")));
-        //getActionBar().setTitle("My new title"); nao funciona
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#000000")));
+        setTitle("Poupanca");
         getSupportActionBar().setIcon(R.drawable.poupanca_icon);
 
         setContentView(R.layout.aula31);
