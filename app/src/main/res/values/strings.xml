@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">correção ex1 aula 3</string>
+    <string name="valor_inicial">inicial value</string>
+    <string name="valor_inicial2">"value USD ex: 1700 "</string>
+    <string name="aplicacao_mensal">month payment</string>
+    <string name="aplicacao_mensal2">ex: 100.00</string>
 </resources>
