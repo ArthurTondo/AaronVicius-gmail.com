@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">correção ex1 aula 3</string>
+    <string name="app_name">Exercícios</string>
     <string name="valor_inicial">Valor inicial</string>
     <string name="valor_inicial2">Valor em R$. Ex: 1700.00</string>
     <string name="aplicacao_mensal">Aplicação mensal</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">correção ex1 aula 3</string>
+    <string name="app_name" translatable="false">Exercicios</string>
     <string name="valor_inicial">inicial value</string>
     <string name="valor_inicial2">"value USD ex: 1700 "</string>
     <string name="aplicacao_mensal">monthly payment</string>
