@@ -12,7 +12,10 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ex2"/>
+        android:text="Ex2"
+        android:onClick="aula32Click"
+        />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

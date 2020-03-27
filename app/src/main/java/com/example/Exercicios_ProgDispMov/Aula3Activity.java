@@ -14,7 +14,6 @@ public class Aula3Activity extends AppCompatActivity {
         setContentView(R.layout.exercicios3);
         getSupportActionBar().setDisplayUseLogoEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-
         getSupportActionBar().setIcon(R.drawable.ic_launcher_foreground);
         getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#5e9c00")));
 
@@ -29,6 +28,13 @@ public class Aula3Activity extends AppCompatActivity {
 
     }
     public void aula32Click(View view){
+
+
+        getSupportActionBar().hide();
+        setContentView(R.layout.aula32);
+        View decorView = getWindow().getDecorView();
+        int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
+        decorView.setSystemUiVisibility(uiOptions);
 
     }
     public void aula33Click(View view){
