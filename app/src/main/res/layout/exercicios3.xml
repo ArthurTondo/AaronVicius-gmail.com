@@ -19,7 +19,9 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ex3"/>
+        android:text="Ex3"
+        android:onClick="aula33Click"
+        />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -32,12 +32,13 @@ public class Aula3Activity extends AppCompatActivity {
 
         getSupportActionBar().hide();
         setContentView(R.layout.aula32);
-        View decorView = getWindow().getDecorView();
-        int uiOptions = View.SYSTEM_UI_FLAG_FULLSCREEN;
-        decorView.setSystemUiVisibility(uiOptions);
 
     }
     public void aula33Click(View view){
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#000000")));
+        setTitle("Quiz de trânsito");
+        getSupportActionBar().setIcon(R.drawable.quiz_transito_icon);
+        setContentView(R.layout.aula33);
 
     }
     public void aula34Click(View view){
