@@ -42,6 +42,9 @@ public class Aula3Activity extends AppCompatActivity {
 
     }
     public void aula34Click(View view){
-
+        getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#A9A9A9")));
+        setTitle("Balaio de lenha");
+        getSupportActionBar().setIcon(new ColorDrawable(getResources().getColor(android.R.color.transparent)));
+        setContentView(R.layout.aula34);
     }
 }

@@ -10,7 +10,7 @@ import android.view.View;
 // TODO: 26/03/2020 Aula 3:
 
 // TODO: 26/03/2020 Ex3: Falta add o ex 3
-// TODO: 26/03/2020 Ex4: Falta add o ex 4
+// TODO: 26/03/2020 Ex4: Falta fazer a internacionalização
 
 // TODO: 26/03/2020 Falta fazer os exercicios da aula 4 até o dia 01/04/2020
 

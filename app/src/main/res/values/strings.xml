@@ -10,4 +10,11 @@
     <string name="taxa2" translatable="false">Ex: 0.02</string>
     <string name="calc">Calc</string>
     <string name="Ttulo31">savings</string>
+    <string name="consumo">Consumo Total R$</string>
+    <string name="couvert_art">Couvert artistico R$</string>
+    <string name="dividir_conta">Dividir conta por</string>
+    <string name="taxa_serv">Taxa serviço (10%) R$</string>
+    <string name="conta_t">Conta Total R$</string>
+    <string name="pessoa">Valor por pessoa R$</string>
+    <string name="calc_conta">Calcular conta final</string>
 </resources>
