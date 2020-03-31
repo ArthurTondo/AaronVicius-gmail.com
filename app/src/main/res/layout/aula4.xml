@@ -28,11 +28,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:onClick="onClickMaps1"
         android:text="maps1"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:onClick="onClickMaps2"
         android:text="maps2"/>
     <Button
         android:layout_width="match_parent"
@@ -43,6 +45,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:onClick="onClickMaps3"
         android:text="pic it!"/>
     <TextView
         android:layout_width="wrap_content"

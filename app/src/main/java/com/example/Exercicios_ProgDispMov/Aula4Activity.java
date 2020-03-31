@@ -44,4 +44,25 @@ public class Aula4Activity extends AppCompatActivity {
         }
         startActivity(it);
     }
+    public void onClickMaps1(View argO){
+        Uri urigeo = Uri.parse("geo:0,0?q=Sete+de+Setembro,Curitiba");
+        Intent it = new Intent(Intent.ACTION_VIEW, urigeo);
+        it.setPackage("com.google.android.apps.maps");
+        startActivity(it);
+    }
+    public void onClickMaps2(View argO){
+        Uri urigeo = Uri.parse("geo:-25.443195,-49.280977");
+        Intent it = new Intent(Intent.ACTION_VIEW, urigeo);
+        it.setPackage("com.google.android.apps.maps");
+        startActivity(it);
+    }
+    public void onClickMaps3(View argO){
+        String Partida="-25.443195,-49.280977";
+        String Destino="-25.442207,-49.278403";
+        String Url = "https://www.google.com/maps/dir/"+Partida+"/"+Destino+"/hl=pt";
+        //https://www.google.com/maps/dir/-25.443195,-49.280977/-25.442207,-49.278403/hl=pt
+        Intent it = new Intent(Intent.ACTION_VIEW);
+        it.setData(Uri.parse(Url));
+        startActivity(it);
+    }
 }
