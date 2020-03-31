@@ -29,4 +29,7 @@ public class MainActivity extends AppCompatActivity {
     public void aula3click(View view) {
         startActivity(new Intent(this,Aula3Activity.class));
     }
+    public void aula4click(View view) {
+        startActivity(new Intent(this,Aula4Activity.class));
+    }
 }
